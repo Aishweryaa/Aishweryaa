@@ -1,11 +1,102 @@
-<h1 align="center">Hi 👋, I'm Aishwerya</h1>
-<h3 align="center">A passionate UI/UX developer from India</h3>
+<!--
+💡 Interactive Profile for Aishwerya
+- Typing animation with readme-typing-svg
+- GitHub stats, streak, top languages
+- Activity graph
+- Random dev joke
+- Visitor counter
+-->
 
-- 📫 How to reach me **aishweryaaishu1911@gmail.com**
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=2E9AFE&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Aishwerya+👋;Welcome+to+my+GitHub!;DevOps+%7C+Cloud+%7C+Automation+✨" alt="Typing SVG" />
+</h1>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">A passionate DevOps & Cloud enthusiast from Salem, India 🇮🇳</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Aishweryaa&label=Profile%20Views&color=0e75b6&style=flat" alt="Aishweryaa" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> </a> </p>
+---
+
+### 🧑‍💻 About Me
+
+- 🔭 I’m currently working on **DevOps & Cloud automation projects**
+- 🌱 I’m learning **Kubernetes, Terraform, and advanced CI/CD**
+- 💬 Ask me about **Bash/Python scripting, Docker, AWS, GitHub Actions**
+- 📫 How to reach me: **aishweryaaishu1911@gmail.com**
+- ⚡ Fun fact: **I love automating repetitive tasks – if it's manual, I'll script it!**
+
+### 🚀 Featured Projects
+
+- **System Monitoring Automation Script**  
+  *Bash/Python script to monitor CPU, memory, and disk usage with automated logging – reduced manual overhead.*
+
+- **CI/CD Pipeline with Docker Deployment**  
+  *Containerized Flask app with GitHub Actions for automated build & validation – hands-on with CI/CD workflows.*
+
+- **Cloud-Based Application Deployment on AWS**  
+  *Deployed web app on EC2 with S3 for storage – learned infrastructure provisioning and remote server management.*
+
+---
+
+### 🌐 Connect with Me
+
+<p align="left">
+  <a href="https://linkedin.com/in/aishwerya-shanmuganandham" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+</p>
+
+---
+
+### 🛠️ Languages & Tools
+
+<p align="left">
+  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
+  <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" width="40" height="40"/></a>
+  <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/></a>
+  <a href="https://aws.amazon.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/></a>
+  <a href="https://github.com/features/actions" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" alt="GitHub Actions" width="40" height="40"/></a>
+  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/></a>
+  <a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original-wordmark.svg" alt="Flask" width="40" height="40"/></a>
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Aishweryaa&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aishweryaa&layout=compact&langs_count=7&theme=radical"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aishweryaa&theme=radical" alt="GitHub Streak" />
+</div>
+
+---
+
+### 📈 Activity Graph
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Aishweryaa&bg_color=0d1117&color=ffffff&line=2E9AFE&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
+### 🎲 Random Dev Joke
+
+<div align="center">
+  <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+</div>
+
+---
+
+### ✍️ Quote of the Day
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
+</div>
+
+---
+
+⭐️ *Thanks for visiting! Let’s build, automate, and scale together.*

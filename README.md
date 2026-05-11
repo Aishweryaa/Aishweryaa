@@ -11,7 +11,7 @@
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" /> 
   Hi, I'm Aishwerya!
   <br/>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=500&color=2E9AFE&center=true&vCenter=true&width=300&lines=DevOps+Engineer;Cloud+Enthusiast" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=500&color=2E9AFE&center=true&vCenter=true&width=300&lines=Software+Engineer;AI+Enthusiast" />
 </h1>
 
 <h3 align="center">A passionate Software Developer & ML enthusiast from Salem, India 🇮🇳</h3>

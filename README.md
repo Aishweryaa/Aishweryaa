@@ -14,7 +14,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=500&color=2E9AFE&center=true&vCenter=true&width=300&lines=DevOps+Engineer;Cloud+Enthusiast" />
 </h1>
 
-<h3 align="center">A passionate DevOps & Cloud enthusiast from Salem, India 🇮🇳</h3>
+<h3 align="center">A passionate Software Developer & ML enthusiast from Salem, India 🇮🇳</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Aishweryaa&label=Profile%20Views&color=0e75b6&style=flat" alt="Aishweryaa" />
@@ -23,11 +23,11 @@
 
 ### 🧑‍💻 About Me
 
-- 🔭 I’m currently working on **DevOps & Cloud automation projects**
-- 🌱 I’m learning **Kubernetes, Terraform, and advanced CI/CD**
-- 💬 Ask me about **Bash/Python scripting, Docker, AWS, GitHub Actions**
+- 🔭 I’m currently working on **Software development and automation projects**
+- 🌱 I’m learning **Machine Learning, Docker, CI/CD**
+- 💬 Ask me about **Docker,GitHub Actions**
 - 📫 How to reach me: **aishweryaaishu1911@gmail.com**
-- ⚡ Fun fact: **I love automating repetitive tasks – if it's manual, I'll script it!**
+- ⚡ Fun fact: **I love automating repetitive tasks**
 
 ### 🚀 Featured Projects
 
@@ -36,9 +36,6 @@
 
 - **CI/CD Pipeline with Docker Deployment**  
   *Containerized Flask app with GitHub Actions for automated build & validation – hands-on with CI/CD workflows.*
-
-- **Cloud-Based Application Deployment on AWS**  
-  *Deployed web app on EC2 with S3 for storage – learned infrastructure provisioning and remote server management.*
 
 - **File Organizer (Java)**  
   *Java application that automatically sorts files into folders based on type, extension, or custom rules – built to practice file I/O and OOP principles.*
